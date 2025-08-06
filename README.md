@@ -51,8 +51,8 @@ The dataset contains labeled images of different types of waste, categorized int
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/waste-segregation.git
-cd waste-segregation
+git clone https://github.com/aliiakbarkhan/deep-learning-waste-segregation.git
+cd deep-learning-waste-segregation
 ```
 ### 2. Install dependencies
 ```bash
